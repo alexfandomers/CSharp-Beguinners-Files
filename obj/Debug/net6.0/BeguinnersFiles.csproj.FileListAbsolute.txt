@@ -1,0 +1,15 @@
+C:\C#\BeguinnersFiles\bin\Debug\net6.0\BeguinnersFiles.exe
+C:\C#\BeguinnersFiles\bin\Debug\net6.0\BeguinnersFiles.deps.json
+C:\C#\BeguinnersFiles\bin\Debug\net6.0\BeguinnersFiles.runtimeconfig.json
+C:\C#\BeguinnersFiles\bin\Debug\net6.0\BeguinnersFiles.dll
+C:\C#\BeguinnersFiles\bin\Debug\net6.0\BeguinnersFiles.pdb
+C:\C#\BeguinnersFiles\obj\Debug\net6.0\BeguinnersFiles.csproj.AssemblyReference.cache
+C:\C#\BeguinnersFiles\obj\Debug\net6.0\BeguinnersFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\BeguinnersFiles\obj\Debug\net6.0\BeguinnersFiles.AssemblyInfoInputs.cache
+C:\C#\BeguinnersFiles\obj\Debug\net6.0\BeguinnersFiles.AssemblyInfo.cs
+C:\C#\BeguinnersFiles\obj\Debug\net6.0\BeguinnersFiles.csproj.CoreCompileInputs.cache
+C:\C#\BeguinnersFiles\obj\Debug\net6.0\BeguinnersFiles.dll
+C:\C#\BeguinnersFiles\obj\Debug\net6.0\refint\BeguinnersFiles.dll
+C:\C#\BeguinnersFiles\obj\Debug\net6.0\BeguinnersFiles.pdb
+C:\C#\BeguinnersFiles\obj\Debug\net6.0\BeguinnersFiles.genruntimeconfig.cache
+C:\C#\BeguinnersFiles\obj\Debug\net6.0\ref\BeguinnersFiles.dll
